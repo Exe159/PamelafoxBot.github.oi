@@ -1,0 +1,15 @@
+/* Establecer el tamaño de fuente para el cuerpo del documento */
+body {
+    font-size: 160px; /* Puedes ajustar el valor según tus preferencias */
+}
+
+/* Establecer el color de fondo para el cuerpo del documento */
+body {
+    background-color: #f0f0f0; /* Puedes cambiar este valor al color que desees */
+}
+
+/* Estilo para el título de la página */
+h1 {
+    font-size: 24px; /* Puedes ajustar el valor según tus preferencias */
+    color: #333; /* Puedes cambiar este valor al color que desees */
+}
